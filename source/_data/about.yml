@@ -1,0 +1,115 @@
+- class_name: 关于页
+  subtitle: 毕少侠也在江湖✨
+  avatarImg: https://cdn.staticaly.com/gh/geekswg/static@main/web/avatar.webp
+  name: 毕十三
+  description: 是一名 游荡于互联网的网民，喜欢编程，擅长各种C-V语言的编程。
+  aboutsiteTips:
+    tips: 毕少侠也在江湖
+    title1: Talk is Cheap
+    title2: Show Me the Code 
+    word:
+      - 学习Study
+      - 生活Living
+      - 程序Coding
+      - 分享Sharing
+  helloAbout: Hello World!
+  
+  skillsTips:
+    tips: 技能
+    title: Java是世界上最好的语言
+  careers:
+    tips: 生涯
+    title: 学海无涯，回头是岸
+    item:
+      - EDU,软件工程专业
+      - EDU2,软件工程专业
+      - EDU3,软件工程专业
+    img: /imgs/about-edu.png
+
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: /imgs/t.png
+
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，合肥市
+    background: /imgs/t.png
+    backgroundDark: /imgs/t.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 1921
+    selfInfoTips2: 互联网大学
+    selfInfoContent2: 软件工程-计算机科学与技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: CodeFarmer👨‍🎓
+
+  personalities:
+    author_name: 提倡者
+    personality_type: INFJ-T
+    photo_url: /imgs/t.png # 个人照片
+    personality_img: https://www.16personalities.com/static/images/personality-types/avatars/infj-advocate.svg
+    name_url: https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC
+  
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 往者不可谏，
+    maxim_bottom: 来者犹可追。
+
+  buff:
+    buff_tips: 特长-无
+    buff_top: 人生得意须尽欢
+    buff_bottom: 我辈岂是蓬蒿人
+
+  game:
+    game_tips: 爱好游戏
+    game_title: 使命召19-战争地带2.0
+    game_uid: "geekswg#123456"
+    game_bg: /imgs/t.png
+
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 三体
+        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: /imgs/t.png
+      - name: 秦时明月
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: /imgs/t.png
+
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: /imgs/t.png
+    like_bottom: 手机、电脑软硬件
+
+  music:
+    music_tips: 音乐偏好
+    music_title: 许嵩、民谣、华语流行
+    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_link: /music
+
+# 打赏列表  
+  reward_list:
+    - name: 毕十一
+      amount: 1000
+      datatime: 2022-08-19
+      suffix: 元
+    
+    - name: 毕十二
+      amount: 12
+      datatime: 2022-08-19
+      suffix:  亿
+
+    - name: 毕十三
+      amount: 13
+      datatime: 2023-04-10
+      suffix: 万
+
+    - name: 毕十四
+      amount: 14
+      datatime: 2023-04-10
+      suffix: 贝壳  
+
+  extra: false
